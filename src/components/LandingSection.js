@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import { Avatar, Heading, VStack } from "@chakra-ui/react";
 import FullScreenSection from "./FullScreenSection";
 
